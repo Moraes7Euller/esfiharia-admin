@@ -1,0 +1,1 @@
+A estrutura inicial do projeto Esfiharia, separando frontend e backend, já com Prisma, Express e Next.js configurados.
